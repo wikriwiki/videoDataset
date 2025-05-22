@@ -1,0 +1,344 @@
+name,count_2023,count_2024,count_2025,birthDate,deathDate,nationality,occupationType
+Donald Trump,1910209,3705629,2572869,1945-06-14T00:00:00Z,,United States,Politician
+Joe Biden,2111874,2489224,440975,1942-11-20T00:00:00Z,,United States,Politician
+Pope Francis,439989,325595,857582,1936-12-17T00:00:00Z,2025-04-21T00:00:00Z,Argentina,Politician
+Benjamin Netanyahu,596777,770568,229396,1949-10-21T00:00:00Z,,Israel,Politician
+Kamala Harris,139834,1234685,90707,1964-10-20T00:00:00Z,,United States,Politician
+Taylor Swift,541536,750520,109801,1989-12-13T00:00:00Z,,United States,Celebrity
+Elon Musk,405985,441823,513483,1971-06-28T00:00:00Z,,United States and South Africa,Entrepreneur
+Narendra Modi,458322,427139,129871,1950-09-17T00:00:00Z,,India,Politician
+Cristiano Ronaldo,857002,59726,15457,1985-02-05T00:00:00Z,,Portugal,Celebrity
+Keir Starmer,175333,476416,211383,1962-09-02T00:00:00Z,,United Kingdom,Politician
+Hunter Biden,392687,408157,24560,1970-02-04T00:00:00Z,,United States,Entrepreneur
+King Charles,340150,248707,62729,1988-05-06T00:00:00Z,,United Kingdom,Politician
+Rahul Gandhi,272311,290226,55924,1970-06-19T00:00:00Z,,India,Politician
+Anthony Albanese,224673,224876,152924,1963-03-02T00:00:00Z,,Australia,Politician
+Barack Obama,200524,269580,96722,1961-08-04T00:00:00Z,,United States,Politician
+Justin Trudeau,190036,165988,117260,1971-12-25T00:00:00Z,,Canada,Politician
+Antony Blinken,277894,181680,11811,1962-04-16T00:00:00Z,,United States,Politician
+Imran Khan,272676,159679,30579,1952-10-05T00:00:00Z,,Pakistan,Politician
+Boris Johnson,304639,105857,15793,1964-06-19T00:00:00Z,,United Kingdom,Politician
+Jens Stoltenberg,303004,100434,2398,1959-03-16T00:00:00Z,,Norway,Politician
+Alexander Lukashenko,319761,62561,23251,1976-04-28T00:00:00Z,,Belarus,Politician
+Volodymyr Zelenskyy,164194,108988,97262,1978-01-25T00:00:00Z,,Ukraine,Politician
+Alexander Ovechkin,364752,1741,3537,1985-09-17T00:00:00Z,,Soviet Union,Celebrity
+Nikki Haley,160717,193158,2385,1972-01-20T00:00:00Z,,United States,Politician
+Peter Dutton,79480,108505,156592,1970-11-18T00:00:00Z,,Australia,Politician
+Lloyd Austin,202350,124136,8132,1953-08-08T00:00:00Z,,United States,Politician
+Mike Johnson,65539,205329,63443,1975-10-03T00:00:00Z,,United States,Politician
+Travis Kelce,99916,173428,36601,1989-10-05T00:00:00Z,,United States,Celebrity
+Sheikh Hasina,112637,152282,32186,1947-09-28T00:00:00Z,,Bangladesh,Politician
+Gavin Newsom,121938,108181,58935,1967-10-10T00:00:00Z,,United States,Politician
+Amit Shah,122257,124037,40572,1965-10-22T00:00:00Z,,India,Politician
+Hillary Clinton,90235,159510,29768,1947-10-26T00:00:00Z,,United States,Politician
+Dmitry Peskov,130578,94640,53703,1967-10-17T00:00:00Z,,Soviet Union,Politician
+Jimmy Carter,91467,106085,73809,1924-10-01T00:00:00Z,2024-12-29T00:00:00Z,United States,Politician
+Tim Walz,20134,230914,16695,1964-04-06T00:00:00Z,,United States,Politician
+Ramzan Kadyrov,232369,23508,3848,1976-10-05T00:00:00Z,,Chechen Republic of Ichkeria,Politician
+Marco Rubio,25046,55851,178478,1971-05-28T00:00:00Z,,United States,Politician
+Michael Cohen,80626,170142,4783,1970-12-13T00:00:00Z,,United States,Politician
+Arvind Kejriwal,62389,148040,42073,1968-08-16T00:00:00Z,,India,Politician
+Jerome Powell,110194,98540,41669,1953-02-04T00:00:00Z,,United States,Politician
+Elton John,121132,85474,42175,1987-04-08T00:00:00Z,,United Kingdom,Celebrity
+Kate Middleton,91144,135545,22065,1987-12-23T00:00:00Z,,United Kingdom,Celebrity
+Queen Camilla,98878,120212,29450,1947-07-17T00:00:00Z,,United Kingdom,Celebrity
+Jennifer Lopez,86491,126768,34907,1969-07-24T00:00:00Z,,United States,Celebrity
+Novak Djokovic,189853,44805,11327,1987-05-22T00:00:00Z,,Serbia,Celebrity
+Kim Kardashian,129601,75968,38207,1980-10-21T00:00:00Z,,United States,Celebrity
+Lady Gaga,80836,86716,73508,1986-03-28T00:00:00Z,,United States,Celebrity
+Bill Clinton,85642,114585,36029,1946-08-19T00:00:00Z,,United States,Politician
+Warren Buffett,96441,91213,46497,1930-08-30T00:00:00Z,,United States,Entrepreneur
+Stormy Daniels,75729,149533,8506,1979-03-17T00:00:00Z,,United States,Celebrity
+Mike Pence,155333,54392,13432,1959-06-07T00:00:00Z,,United States,Politician
+Nikita Mikhalkov,216439,4042,1665,1945-10-21T00:00:00Z,,Russia,Celebrity
+Rachel Reeves,22856,128503,64733,1979-02-13T00:00:00Z,,United Kingdom,Politician
+Kanye West,108068,68947,38606,1977-06-08T00:00:00Z,,United States,Celebrity
+Morgan Wallen,59591,109403,43479,1993-05-13T00:00:00Z,,United States,Celebrity
+Dolly Parton,89506,84397,38048,1946-01-19T00:00:00Z,,United States,Celebrity
+Britney Spears,143234,53487,11896,1981-12-02T00:00:00Z,,United States,Celebrity
+Salman Khan,81159,94202,31222,1998-12-26T00:00:00Z,,India,Celebrity
+Olaf Scholz,94113,81486,28189,1968-03-11T00:00:00Z,,Germany,Politician
+Mark Zuckerberg,90409,63830,47655,1984-05-14T00:00:00Z,,United States,Entrepreneur
+Silvio Berlusconi,153501,40613,7674,1936-09-29T00:00:00Z,2023-06-12T00:00:00Z,Italy,Politician
+Jill Biden,101951,84244,14679,1951-06-03T00:00:00Z,,United States,Celebrity
+Tucker Carlson,126080,58299,10953,1969-05-16T00:00:00Z,,United States,Celebrity
+Nancy Pelosi,86986,91852,15909,1940-03-26T00:00:00Z,,United States,Politician
+Kendrick Lamar,33825,88467,70837,1987-06-17T00:00:00Z,,United States,Celebrity
+Ajit Pawar,88460,88805,13315,1959-07-22T00:00:00Z,,India,Politician
+Denis Pushilin,175274,11065,3143,1981-05-09T00:00:00Z,,Russia,Politician
+Selena Gomez,73680,68684,37469,1992-07-22T00:00:00Z,,United States,Celebrity
+Bill Gates,109927,45749,21817,1955-10-28T00:00:00Z,<null>,United States,Entrepreneur
+Ariana Grande,44392,87464,44992,1993-06-26T00:00:00Z,,United States,Celebrity
+Janet Yellen,137787,31102,3637,1946-08-13T00:00:00Z,,United States,Politician
+Greg Abbott,80322,72699,18418,1957-11-13T00:00:00Z,,United States,Politician
+Mohamed Salah,68244,71435,30841,1992-06-15T00:00:00Z,,Egypt,Celebrity
+Eric Adams,73131,66039,30247,1952-07-12T00:00:00Z,,United States,Politician
+Fumio Kishida,119902,47526,1289,1957-07-29T00:00:00Z,,Japan,Politician
+Sharad Pawar,84594,76266,7742,1940-12-12T00:00:00Z,,India,Politician
+Jeremy Hunt,94004,71146,2506,1966-11-01T00:00:00Z,,United Kingdom,Politician
+Yoon Suk Yeol,64767,71735,30347,1960-12-18T00:00:00Z,,South Korea,Politician
+Katy Perry,64796,61352,39085,1964-01-01T00:00:00Z,,United States,Celebrity
+Lisa Marie,141126,21621,2335,1968-12-05T00:00:00Z,,United States,Celebrity
+Nigel Farage,32398,95682,36918,1964-04-03T00:00:00Z,,United Kingdom,Politician
+Tom Brady,85210,60339,18899,1977-08-03T00:00:00Z,,United States,Celebrity
+Vivek Ramaswamy,91919,59141,13223,1985-08-09T00:00:00Z,,United States,Entrepreneur
+Ben Affleck,56623,78043,29444,1972-08-15T00:00:00Z,,United States,Celebrity
+Bob Dylan,52291,64754,44794,2000-01-01T00:00:00Z,,United States,Celebrity
+Patrick Mahomes,61932,72142,27537,1995-09-17T00:00:00Z,,United States,Celebrity
+Humza Yousaf,105751,53389,2462,1985-04-07T00:00:00Z,,United Kingdom,Politician
+Kathy Hochul,66629,62809,28948,1958-08-27T00:00:00Z,,United States,Politician
+Tom Cruise,74326,54939,27609,1962-07-03T00:00:00Z,,United States,Celebrity
+Mark Carney,3396,5522,147080,1965-03-16T00:00:00Z,,Canada,Politician
+Jake Sullivan,90820,59006,5059,1976-11-28T00:00:00Z,,United States,Politician
+Carrie Underwood,47316,64602,42959,1983-03-10T00:00:00Z,,United States,Celebrity
+Alvin Bragg,82992,64695,7172,1973-10-21T00:00:00Z,,United States,Politician
+Billie Eilish,42248,78009,34415,2001-12-18T00:00:00Z,,United States,Celebrity
+Pete Hegseth,682,34278,119263,1980-06-06T00:00:00Z,,United States,Politician
+Bruce Springsteen,58845,71855,21916,1949-09-23T00:00:00Z,,United States,Celebrity
+Dmitry Rogozin,149002,2456,624,1963-12-21T00:00:00Z,,Russia,Politician
+Suella Braverman,117169,30777,1962,1980-04-03T00:00:00Z,,United Kingdom,Politician
+Mamata Banerjee,53115,78756,17273,1955-01-05T00:00:00Z,,India,Politician
+Pierre Poilievre,33910,45381,68080,1979-06-03T00:00:00Z,,Canada,Politician
+Hassan Nasrallah,20681,113753,12187,1960-08-31T00:00:00Z,2024-09-27T00:00:00Z,Lebanon,Politician
+Ismail Haniyeh,24007,117680,2570,1962-01-29T00:00:00Z,2024-07-31T00:00:00Z,State of Palestine,Politician
+Miley Cyrus,62096,56248,25506,1992-11-23T00:00:00Z,,United States,Celebrity
+Luke Bryan,49446,72777,20379,1976-07-17T00:00:00Z,,United States,Celebrity
+Lewis Hamilton,73405,44704,24407,1984-11-21T00:00:00Z,,United Kingdom,Celebrity
+Kelly Clarkson,62155,51593,28724,1982-04-24T00:00:00Z,,United States,Celebrity
+Alec Baldwin,75503,57146,9668,1958-04-03T00:00:00Z,,United States,Celebrity
+Justin Bieber,57289,52067,31640,1994-03-01T00:00:00Z,,Canada,Celebrity
+Alla Pugacheva,121635,14680,4086,1949-04-15T00:00:00Z,,Russia,Celebrity
+Tatiana Tarasova,138873,1107,331,1947-02-13T00:00:00Z,,Soviet Union,Celebrity
+Dmitry Azarov,130733,8196,1025,1970-08-09T00:00:00Z,,Russia,Politician
+Snoop Dogg,46968,76238,15833,1971-10-20T00:00:00Z,,United States,Celebrity
+Ryan Reynolds,51703,64805,22365,1976-10-23T00:00:00Z,,Canada,Celebrity
+Marjorie Taylor Greene,68165,57597,11761,1974-05-27T00:00:00Z,,United States,Politician
+Matthew Perry,88356,44672,4242,1969-08-19T00:00:00Z,2023-10-28T00:00:00Z,United States,Celebrity
+Angelina Jolie,57580,57796,20042,1975-06-04T00:00:00Z,,United States,Celebrity
+Bobby Bones,52895,62157,20086,1980-04-02T00:00:00Z,,United States,Celebrity
+Sergei Lavrov,64691,39843,30091,1949-04-25T00:00:00Z,,Russia,Politician
+Anastasia Volochkova,130134,3084,1179,1976-01-20T00:00:00Z,,Russia,Celebrity
+Mahmoud Abbas,79872,42399,12015,1935-11-15T00:00:00Z,,State of Palestine,Politician
+Margot Robbie,80428,48688,4021,1990-07-02T00:00:00Z,,Australia,Celebrity
+Matt Gaetz,60071,63944,8413,1982-05-07T00:00:00Z,,United States,Politician
+Dua Lipa,48028,70201,13970,1995-08-22T00:00:00Z,,United Kingdom and Albania,Celebrity
+Karim Benzema,122500,7463,1937,1987-12-19T00:00:00Z,,France,Celebrity
+Lionel Messi,84427,37155,9332,1987-06-24T00:00:00Z,,Argentina,Celebrity
+Harry Styles,77051,43773,10081,1994-02-01T00:00:00Z,,United Kingdom,Celebrity
+Hakeem Jeffries,62892,48740,18966,1970-08-04T00:00:00Z,,United States,Politician
+Shah Rukh Khan,69933,45119,15339,1965-11-02T00:00:00Z,,India,Celebrity
+Alexander Bastrykin,110264,15035,5090,1953-08-27T00:00:00Z,,Russia,Politician
+Alexei Navalny,24953,99961,4801,1976-06-04T00:00:00Z,2024-02-16T00:00:00Z,Russia,Politician
+Shehbaz Sharif,50061,56469,23080,1951-09-23T00:00:00Z,,Pakistan,Politician
+James Cleverly,72218,55441,1163,1969-09-04T00:00:00Z,,United Kingdom,Politician
+Graham Potter,122564,2747,1732,1975-05-20T00:00:00Z,,United Kingdom,Celebrity
+Valery Meladze,124729,1730,553,1965-06-23T00:00:00Z,,Georgia,Celebrity
+Miranda Lambert,41454,67703,17700,1983-11-10T00:00:00Z,,United States,Celebrity
+Isabel Diaz,36525,64521,25648,1966-07-27T00:00:00Z,,Spain,Politician
+Ed Sheeran,73907,33650,19102,1991-02-17T00:00:00Z,,United Kingdom,Celebrity
+Ali Khamenei,30657,75145,20529,1939-04-19T00:00:00Z,,Iran,Politician
+Brad Pitt,56501,50395,18836,1981-11-08T00:00:00Z,,United States,Celebrity
+Yevgeny Prigozhin,118688,5681,423,1961-06-01T00:00:00Z,2023-08-23T00:00:00Z,Russia,Entrepreneur
+Nawaz Sharif,64179,54743,5648,1949-12-25T00:00:00Z,,Pakistan,Politician
+Keith Urban,34025,72266,17600,1967-10-26T00:00:00Z,,United States and Australia,Celebrity
+Letitia James,70718,38948,13231,1958-10-18T00:00:00Z,,United States,Politician
+Nicole Kidman,36365,59819,26321,1967-06-20T00:00:00Z,,United States and Australia,Celebrity
+Josh Shapiro,32837,68894,20644,1973-06-20T00:00:00Z,,United States,Politician
+Blake Shelton,46879,52460,22961,1976-06-18T00:00:00Z,,United States,Celebrity
+Eknath Shinde,51718,56143,14080,1964-02-09T00:00:00Z,,India,Politician
+Aaron Rodgers,65246,40727,15529,1983-12-02T00:00:00Z,,United States,Celebrity
+Jeff Bezos,35655,45686,40158,1964-01-12T00:00:00Z,,United States,Entrepreneur
+Karoline Leavitt,1569,33323,86382,1997-08-24T00:00:00Z,,United States,Politician
+Sabrina Carpenter,12426,65534,41937,1999-05-11T00:00:00Z,,United States,Celebrity
+Giorgia Meloni,50491,43618,25403,1977-01-15T00:00:00Z,,Italy,Politician
+Will Smith,67948,34108,16796,1989-07-10T00:00:00Z,,United States,Celebrity
+Tim Scott,86544,28524,3478,1965-09-19T00:00:00Z,,United States,Politician
+Oprah Winfrey,57501,50393,9953,1954-01-29T00:00:00Z,,United States,Entrepreneur
+Nicki Minaj,67536,44747,4677,1982-12-08T00:00:00Z,,Trinidad and Tobago,Celebrity
+Jim Jordan,92584,20238,4023,1964-02-17T00:00:00Z,,United States,Politician
+Jennifer Aniston,56011,45448,15151,1969-02-11T00:00:00Z,,United States,Celebrity
+Wang Yi,64335,39348,12539,1953-10-19T00:00:00Z,,People's Republic of China,Politician
+Shohei Ohtani,41448,60450,14183,1994-07-05T00:00:00Z,,Japan,Celebrity
+Leonid Slutsky,97651,15862,2386,1971-05-04T00:00:00Z,,Russia,Politician
+Leonid Fedun,115729,90,37,1956-04-05T00:00:00Z,,Russia,Entrepreneur
+Jair Bolsonaro,71205,32663,11849,1955-03-21T00:00:00Z,,Brazil,Politician
+Simon Harris,6765,87925,20254,1986-10-17T00:00:00Z,,Ireland,Politician
+Fedor Emelianenko,113728,504,218,1976-09-28T00:00:00Z,,Russia,Celebrity
+Max Verstappen,63138,38471,12264,1997-09-30T00:00:00Z,,Belgium and Netherlands,Celebrity
+Nicola Sturgeon,75241,31538,6984,1970-07-19T00:00:00Z,,United Kingdom,Politician
+Bernie Sanders,37156,52836,23151,1941-09-08T00:00:00Z,,United States,Politician
+Chris Minns,49008,47096,17018,1979-09-17T00:00:00Z,,Australia,Politician
+Johnny Depp,79060,25819,7243,1963-06-09T00:00:00Z,,United States,Celebrity
+Ryan Gosling,44861,60496,6283,1980-11-12T00:00:00Z,,Canada,Celebrity
+Blake Lively,24866,47297,39086,1987-08-25T00:00:00Z,,United States,Celebrity
+Martin Scorsese,58846,39152,12039,1942-11-17T00:00:00Z,,United States,Celebrity
+Rudy Giuliani,72762,30598,5759,1944-05-28T00:00:00Z,,United States,Politician
+Chris Stapleton,43355,52685,13057,1978-04-15T00:00:00Z,,United States,Celebrity
+Cyril Ramaphosa,55518,40568,12545,1952-11-17T00:00:00Z,,South Africa,Politician
+Kemi Badenoch,19027,54558,35044,1980-01-02T00:00:00Z,,United Kingdom,Politician
+Anthony Davis,72663,23135,12530,1993-03-11T00:00:00Z,,United States,Celebrity
+Karine Jean-Pierre,57391,45390,5215,1974-08-13T00:00:00Z,,United States,Politician
+Leo Varadkar,64416,39338,1954,1979-01-18T00:00:00Z,,Ireland,Politician
+Daniel Hagari,51146,51906,2509,1976-08-14T00:00:00Z,,Israel,Politician
+Stephen King,53057,36647,15516,1986-03-06T00:00:00Z,,United States,Celebrity
+Michael Jordan,65574,25117,14291,1972-01-01T00:00:00Z,,United States,Celebrity
+Zhou Qi,73028,29665,2228,1996-01-16T00:00:00Z,,People's Republic of China,Celebrity
+William Ruto,47194,45287,11789,1966-12-21T00:00:00Z,,Kenya,Politician
+Amitabh Bachchan,39378,51080,13657,1942-10-11T00:00:00Z,,India,Celebrity
+Mariah Carey,43853,45213,14704,1969-03-27T00:00:00Z,,United States,Celebrity
+Alexis Tsipras,78329,20887,4328,1974-07-28T00:00:00Z,,Greece,Politician
+Mallikarjun Kharge,47489,46892,8850,1942-07-21T00:00:00Z,,India,Politician
+Sam Altman,46620,34792,20908,1985-04-22T00:00:00Z,,United States,Entrepreneur
+Robert De Niro,55096,28235,18699,1943-08-17T00:00:00Z,,Italy,Celebrity
+Tina Turner,81036,14456,5642,1939-11-26T00:00:00Z,2023-05-24T00:00:00Z,United States and Switzerland,Celebrity
+Oleg Melnichenko,98755,1329,654,1973-05-21T00:00:00Z,,Russia,Politician
+Melania Trump,12321,50616,37684,1970-04-26T00:00:00Z,,United States and Slovenia,Celebrity
+Andrzej Duda,75371,17972,7276,1972-05-16T00:00:00Z,,Poland,Politician
+Virat Kohli,50010,34266,16062,1988-11-05T00:00:00Z,,India,Celebrity
+Michelle Obama,28700,52171,19306,1964-01-17T00:00:00Z,,United States,Politician
+Tim Cook,53217,29286,17653,1960-11-01T00:00:00Z,,United States,Entrepreneur
+Justin Timberlake,39748,54031,6117,1981-01-31T00:00:00Z,,United States,Celebrity
+Danielle Smith,35249,36333,27989,1971-04-01T00:00:00Z,,Canada,Politician
+Travis Scott,48890,37467,12900,1975-09-14T00:00:00Z,,United States,Celebrity
+Olivia Rodrigo,41385,44800,12890,2003-02-20T00:00:00Z,,United States,Celebrity
+Olga Buzova,92226,5097,1274,1986-01-20T00:00:00Z,,Russia,Celebrity
+Ted Cruz,40395,43450,14073,1970-12-22T00:00:00Z,,United States,Politician
+David Beckham,54609,30701,12435,1975-05-02T00:00:00Z,,United Kingdom,Celebrity
+Sadiq Khan,47233,44202,5497,1970-10-08T00:00:00Z,,United Kingdom,Politician
+Steven Spielberg,53324,32138,11173,1946-12-18T00:00:00Z,,United States,Celebrity
+Jimmy Kimmel,35215,52032,9358,1967-11-13T00:00:00Z,,United States,Celebrity
+Kylie Jenner,48301,30968,17301,1997-08-10T00:00:00Z,,United States,Celebrity
+Pete Buttigieg,43360,45344,7217,1982-01-19T00:00:00Z,,United States,Politician
+Kelsea Ballerini,37032,36464,22339,1993-09-12T00:00:00Z,,United States,Celebrity
+Willie Nelson,41924,44636,9240,1933-04-29T00:00:00Z,,United States,Celebrity
+Rajnath Singh,37765,40872,17078,1951-07-10T00:00:00Z,,India,Politician
+Hugh Jackman,43746,44048,7564,1968-10-12T00:00:00Z,,Australia,Celebrity
+Ralph Lauren,64849,20488,9581,1939-10-14T00:00:00Z,,United States,Entrepreneur
+Chris Christie,71262,22459,993,1962-09-06T00:00:00Z,,United States,Politician
+Valery Gerasimov,74913,11698,7848,1955-09-08T00:00:00Z,,Russia,Politician
+Isaac Herzog,51530,33795,9020,1960-09-22T00:00:00Z,,Israel,Politician
+Jason Aldean,31245,43408,19471,1977-02-28T00:00:00Z,,United States,Celebrity
+George Santos,75107,16074,2790,1988-07-22T00:00:00Z,,United States,Politician
+Mark Rutte,39285,31069,23553,1967-02-14T00:00:00Z,,Netherlands,Politician
+Dana White,62752,20710,10411,1969-07-29T00:00:00Z,,United States,Entrepreneur
+Wang Wenbin,72098,20630,492,1971-04-01T00:00:00Z,,People's Republic of China,Politician
+Alejandro Mayorkas,36972,52176,4062,1959-11-24T00:00:00Z,,Cuba,Politician
+Akhilesh Yadav,28904,53213,11075,1973-07-01T00:00:00Z,,India,Politician
+Kevin Costner,40597,42674,9904,1955-01-18T00:00:00Z,,United States,Celebrity
+Matthew Miller,40262,51669,1072,1962-01-01T00:00:00Z,,United States,Celebrity
+Tony Blair,44034,41037,7746,1953-05-06T00:00:00Z,,United Kingdom,Politician
+Carlo Ancelotti,35637,37701,18991,1959-06-10T00:00:00Z,,Italy,Celebrity
+Harry Kane,67371,21328,3608,1993-07-28T00:00:00Z,,United Kingdom,Celebrity
+Jimmy Fallon,39373,38406,14399,1974-09-19T00:00:00Z,,United States,Celebrity
+Rupert Murdoch,55781,27673,8421,1931-03-11T00:00:00Z,,United States and Australia,Entrepreneur
+Julian Alvarez,31053,42482,18204,2000-01-01T00:00:00Z,,Argentina,Celebrity
+Paris Hilton,47651,25781,17801,1981-02-17T00:00:00Z,,United States,Celebrity
+Kane Brown,36722,40150,14356,1993-10-21T00:00:00Z,,United States,Celebrity
+Pep Guardiola,45916,34432,10575,1971-01-18T00:00:00Z,,Spain,Celebrity
+John Swinney,7656,63953,18775,1964-04-13T00:00:00Z,,United Kingdom,Politician
+Julian Assange,22455,66155,1574,1971-07-03T00:00:00Z,,Australia,Celebrity
+Gwyneth Paltrow,60339,20355,9364,1972-09-27T00:00:00Z,,United States,Entrepreneur
+Andy Beshear,39885,34738,14467,1977-11-29T00:00:00Z,,United States,Politician
+Alia Bhatt,40700,39160,9152,1993-03-15T00:00:00Z,,United Kingdom and India,Celebrity
+David Lammy,11305,51177,26415,1972-07-19T00:00:00Z,,United Kingdom,Politician
+Akshay Kumar,32277,37624,18776,1967-09-09T00:00:00Z,,India,Celebrity
+Robert Fico,18697,50349,19028,1964-09-15T00:00:00Z,,Slovakia,Politician
+Sonia Gandhi,39079,38436,10174,1946-12-09T00:00:00Z,,India,Politician
+Penny Wong,33300,41470,12902,1968-11-05T00:00:00Z,,Australia,Politician
+Chuck Schumer,28754,34076,24446,1950-11-23T00:00:00Z,,United States,Politician
+Luis Diaz,41436,35385,10169,1957-11-06T00:00:00Z,,Colombia,Celebrity
+Jeremy Renner,75800,8278,2848,1971-01-07T00:00:00Z,,United States,Celebrity
+Bruce Miller,74317,8401,4083,1987-08-06T00:00:00Z,,United States,Celebrity
+Jason Kelce,26338,45470,14966,1987-11-05T00:00:00Z,,United States,Celebrity
+Eric Trump,48876,29192,8617,1984-01-06T00:00:00Z,,United States,Entrepreneur
+Gretchen Whitmer,32102,44169,10224,1971-08-23T00:00:00Z,,United States,Politician
+Boyko Borisov,36140,38569,11769,1959-06-13T00:00:00Z,,Bulgaria,Politician
+Toby Keith,11463,66995,7718,1961-07-08T00:00:00Z,2024-02-05T00:00:00Z,United States,Celebrity
+Nitish Kumar,38184,37825,10140,1951-03-01T00:00:00Z,,India,Politician
+Rohit Sharma,39474,32021,14621,1987-04-30T00:00:00Z,,India,Celebrity
+George Clooney,28644,43943,12885,1961-05-06T00:00:00Z,,United States,Celebrity
+Arnold Schwarzenegger,46346,29616,9279,1947-07-30T00:00:00Z,,United States and Austria,Celebrity
+Denis Manturov,75601,7230,2342,1969-02-23T00:00:00Z,,Russia,Politician
+Yvette Cooper,19272,44439,21361,1969-03-20T00:00:00Z,,United Kingdom,Politician
+Ed Davey,20010,54274,10647,1965-12-25T00:00:00Z,,United Kingdom,Politician
+Vladmir Putin,4317653,1232609,576756,1952-10-07T00:00:00Z,,Russia,Politician
+Harrison Ford,54816,31777,14657,1942-07-13T00:00:00Z,,United States,Celebrity
+Robert Downey Jr.,28034,49800,10484,1965-04-04T00:00:00Z,,United States,Celebrity
+Xi Jinping,,"",,1953-06-15T00:00:00Z,,People's Republic of China,Politician
+Mukesh Ambani,19559,35693,7322,1957-04-19T00:00:00Z,,India,Entrepreneur
+Bernard Arnault,13735,11487,5577,1949-03-05T00:00:00Z,,France,Entrepreneur
+Richard Branson,19704,8375,1777,1950-07-18T00:00:00Z,,United Kingdom,Entrepreneur
+Jack Ma,23119,2302,2155,1964-09-10T00:00:00Z,,People's Republic of China,Entrepreneur
+Michael Bloomberg,10403,9745,1891,1942-02-14T00:00:00Z,,United States,Entrepreneur
+Jensen Huang,10379,17824,10910,1963-02-17T00:00:00Z,,Taiwan and United States,Entrepreneur
+Shou Zi Chew,,"",,1983-01-01T00:00:00Z,,Singapore,Entrepreneur
+Jamie Dimon,16286,11894,6847,1956-03-13T00:00:00Z,,United States,Entrepreneur
+Larry Ellison,6202,6991,7408,1944-08-17T00:00:00Z,,United States,Entrepreneur
+Sergey Brin,5230,4842,1534,1973-08-21T00:00:00Z,,United States,Entrepreneur
+Larry Page,5754,4842,1534,1973-03-26T00:00:00Z,,United States,Entrepreneur
+Steve Mollenkopf,14,1074,5,1968-00-00T00:00:00Z,,United States,Entrepreneur
+Gautam Adani,26607,27157,8447,1962-06-24T00:00:00Z,,India,Entrepreneur
+George Soros,30161,17168,12134,1930-08-12T00:00:00Z,,United States and Hungary,Entrepreneur
+Bob Iger,31334,15685,2677,1951-02-10T00:00:00Z,,United States,Entrepreneur
+Sundar Pichai,19783,19140,8856,1972-06-10T00:00:00Z,,United States and India,Entrepreneur
+Satya Nadella,22085,13582,5771,1967-08-19T00:00:00Z,,United States and India,Entrepreneur
+Jack Dorsey,19120,6161,1171,1976-11-19T00:00:00Z,,United States,Entrepreneur
+Brad Smith,11321,7516,2686,1959-01-17T00:00:00Z,,United States,Entrepreneur
+Peter Thiel,6188,9727,3863,1967-10-11T00:00:00Z,,United States and Germany,Entrepreneur
+Mary Barra,10178,4933,1958,1961-12-24T00:00:00Z,,United States,Entrepreneur
+Gina Rinehart,6557,6616,3127,1954-02-09T00:00:00Z,,Australia,Entrepreneur
+Steve Cohen,7176,5158,2260,1956-06-11T00:00:00Z,,United States,Entrepreneur
+Ken Griffin,7914,4992,1451,1968-10-15T00:00:00Z,,United States,Entrepreneur
+Lei Jun,10325,2538,958,1969-12-16T00:00:00Z,,People's Republic of China,Entrepreneur
+Larry Fink,5209,4734,3400,1952-11-02T00:00:00Z,,United States,Entrepreneur
+Marc Benioff,5223,5804,1073,1964-09-25T00:00:00Z,,United States,Entrepreneur
+Howard Schultz,6253,3248,1515,1953-07-19T00:00:00Z,,United States,Entrepreneur
+Michael Dell,4281,4999,1678,1965-02-23T00:00:00Z,,United States,Entrepreneur
+Akio Toyoda,5512,3906,1108,1956-05-03T00:00:00Z,,Japan,Entrepreneur
+Masayoshi Son,3169,3338,3636,1947-08-11T00:00:00Z,,Japan,Entrepreneur
+Eric Schmidt,4329,4182,1486,1955-04-27T00:00:00Z,,United States,Entrepreneur
+Ray Dalio,5198,2641,1649,1949-08-08T00:00:00z,,United States,Entrepreneur
+Marc Andreessen,2164,3861,2639,1971-07-09T00:00:00Z,,United States,Entrepreneur
+Mackenzie Scott,3590,4108,766,1970-04-07T00:00:00Z,,United States,Entrepreneur
+Reed Hastings,3686,3928,703,1960-10-08T00:00:00Z,,United States,Entrepreneur
+Lisa Su,3622,3641,1047,1969-11-07T00:00:00Z,,United States and Taiwan,Entrepreneur
+David Rubenstein,2803,2712,2425,1949-08-11T00:00:00Z,,United States,Entrepreneur
+David Solomon ,4316,2027,1247,1962-01-17T00:00:00Z,,United States,Entrepreneur
+Sheryl Sandberg,2107,2966,1859,1969-08-28T00:00:00Z,,United States,Entrepreneur
+Jane Fraser,3487,2423,785,1957-07-13T00:00:00Z,,Uniteed Kingdom,Entrepreneur
+Dara Khosrowshahi,2356,3185,974,1969-05-28T00:00:00Z,,United States and Iran,Entrepreneur
+Doug Mcmillon,2210,1746,2357,1966-10-17T00:00:00Z,,United States,Entrepreneur
+Evan Spiegel,2241,3395,308,1990-06-04T00:00:00Z,,United States,Entrepreneur
+Brian Chesky ,2479,2272,748,1981-08-29T00:00:00Z,,United States,Entrepreneur
+Evan Williams,1749,2578,1147,1972-03-31T00:00:00Z,,United States,Entrepreneur
+Ruth Porat,1464,2759,699,1957-00-00T00:00:00Z,,United Kingdom,Entrepreneur
+Susan Wojcicki,1349,2678,88,1968-07-05T00:00:00Z,2024-08-09T00:00:00Z,United States,Entrepreneur
+Cathy Engelbert,1100,2051,477,1964-11-14T00:00:00Z,,United States,Entrepreneur
+Safra Catz,1529,1528,960,1961-12-01T00:00:00Z,,United States and Israel,Entrepreneur
+Ritesh Agarwal,1121,1629,902,1993-11-06T00:00:00Z,,India,Entrepreneur
+Shantanu Narayen,1682,1668,183,1963-05-27T00:00:00Z,,United States and India,Entrepreneur
+Laurene Powell Jobs,1360,1615,541,1963-11-06T00:00:00Z,,United States,Entrepreneur
+Daniel Zhang,2895,229,59,1972-01-11T00:00:00Z,,People's Republic of China,Entrepreneur
+Scott Farquhar,1071,1268,613,1979-12-00T00:00:00Z,,Australia,Entrepreneur
+Vinod Khosia,808,1643,113,1955-01-28T00:00:00Z,,United States and India,Entrepreneur
+Chamath Palihapitiya,966,1051,292,1976-09-03T00:00:00Z,,Canada and Sri Lanka,Entrepreneur
+Robin Li,1408,578,282,1968-11-17T00:00:00Z,,People's Republic of China,Entrepreneur
+Ben Horowitz,280,1777,127,1966-06-13T00:00:00Z,,United Kingdom,Entrepreneur
+Pony Ma,237,141,88,,1971-10-29T00:00:00Z,People's Republic of China,Entrepreneur
+John Elkann,584,1914,1547,1976-04-01T00:00:00Z,,United States,Entrepreneur
+Stephan Winkelmann,1464,848,155,1964-10-18T00:00:00Z,,Germany,Entrepreneur
+Chris Kempczinski,2809,3831,1222,1968-09-26T00:00:00Z,,United States,Entrepreneur
+James Quincey,2860,2377,1265,1965-01-08T00:00:00Z,,United Kingdom,Entrepreneur
+Ryan Mcinerney,2411,3014,821,1975-00-00T00:00:00Z,,United States,Entrepreneur
+Koji Sato,3400,1389,311,1969-10-19T00:00:00Z,,Japan,Entrepreneur
+Arvind Krishna,2645,1466,711,1962-00-00T00:00:00Z,,United States and India,Entrepreneur
+Chuck Robbins,803,1041,320,1965-00-00T00:00:00Z,,United States,Entrepreneur
+Elliott Hill,5,1451,460,1963-00-00T00:00:00Z,,United States,Entrepreneur
+David Zaslav,14969,4096,1209,1960-01-15T00:00:00Z,,United States,Entrepreneur
+Adam Silver,10768,7687,1737,1962-04-25T00:00:00Z,,United States,Entrepreneur
+Gianni Infantino,8622,4503,2619,1970-03-23T00:00:00Z,,Italy and Switzerland  ,Entrepreneur
+Kelly Ortberg,7,9122,1841,1960-00-00T00:00:00Z,,United States,Entrepreneur
+Oliver Blume,2795,3104,717,1968-06-06T00:00:00Z,,Germany,Entrepreneur
+Euisun Chung,950,641,444,1970-04-18T00:00:00Z,,South Korea,Entrepreneur
+Benedetto Vigna,886,697,562,1969-04-10T00:00:00Z,,Italy,Entrepreneur
+Piero Ferrari,743,771,343,1945-05-22T00:00:00Z,,Italy,Entrepreneur
