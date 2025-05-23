@@ -1,0 +1,16 @@
+2025-05-23 14:41:30,236 - INFO - Successfully loaded JSON file US shows.json.
+2025-05-23 14:41:31,328 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-23 14:41:31,331 - INFO - [DEBUG] raw assistant response: '```json\n["Jimmy Fallon"]\n```'
+2025-05-23 14:41:31,331 - WARNING - ChatGPT attempt 1 failed: Expecting value: line 1 column 1 (char 0)
+2025-05-23 14:41:33,974 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-23 14:41:33,974 - INFO - [DEBUG] raw assistant response: '```json\n["Jimmy Fallon"]\n```'
+2025-05-23 14:41:33,974 - WARNING - ChatGPT attempt 2 failed: Expecting value: line 1 column 1 (char 0)
+2025-05-23 14:41:38,629 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-23 14:41:38,638 - INFO - [DEBUG] raw assistant response: '```json\n["Jimmy Fallon"]\n```'
+2025-05-23 14:41:38,639 - WARNING - ChatGPT attempt 3 failed: Expecting value: line 1 column 1 (char 0)
+2025-05-23 14:41:47,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-23 14:41:47,930 - INFO - [DEBUG] raw assistant response: '```json\n["Tom Cruise", "Jimmy Fallon"]\n```'
+2025-05-23 14:41:47,930 - WARNING - ChatGPT attempt 1 failed: Expecting value: line 1 column 1 (char 0)
+2025-05-23 14:41:50,681 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-23 14:41:50,681 - INFO - [DEBUG] raw assistant response: '```json\n["Tom Cruise", "Jimmy Fallon"]\n```'
+2025-05-23 14:41:50,681 - WARNING - ChatGPT attempt 2 failed: Expecting value: line 1 column 1 (char 0)
