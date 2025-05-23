@@ -7,6 +7,10 @@ import csv
 import openai
 import pandas as pd
 from typing import List, Dict
+from dotenv import load_dotenv
+
+# .env 파일 로드 (환경변수 등록)
+load_dotenv()
 
 # Logging configuration
 logging.basicConfig(
@@ -155,7 +159,7 @@ def main():
     json_file = 'US shows.json'  # Input JSON file
     csv_file = 'person_search_results.csv'   # Output CSV file
     df = pd.read_csv('final.csv')
-    person_list = df['name']  # List of persons to search for
+    person_list = df['name'].dropna().astype(str).tolist() # List of persons to search for
     # Perform person search
     results = find_persons_in_json(json_file, person_list)
     
