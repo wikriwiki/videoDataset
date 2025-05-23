@@ -33,9 +33,9 @@ else:
         print(f"YouTube API 클라이언트 초기화 실패: {e}. API 키를 확인하세요.")
 
 # 설정
-MIN_VIEW_COUNT = 100000  # 최소 조회수 기준
+MIN_VIEW_COUNT = 50000  # 최소 조회수 기준
 PUBLISHED_AFTER_DATE = "2023-01-01T00:00:00Z"  # RFC3339 형식 (UTC)
-CACHE_FILE = "channel_videos_cache.json"  # 캐시 파일 경로
+CACHE_FILE = "US shows.json"  # 캐시 파일 경로
 API_CALL_DELAY = 1.5  # API 호출 간 지연 시간 (초)
 MAX_API_RETRIES = 5  # 최대 API 재시도 횟수
 
@@ -183,13 +183,50 @@ def main():
 
     # 테스트용 채널 ID 목록
     trusted_channel_ids = [
+        ### US shows
         "UC8-Th83bH_thdKZDJCrn88g",  # Jimmy Fallon Show
         "UCMtFAi84ehTSYSE9XoHefig",  # Stephen Colbert
         "UCa6vGFO9ty8v5KZJXQxdhaw",  # Jimmy Kimmel Live
         "UCVTyTA7-g9nopHeHbeuvpRA",  # Seth Meyers
-        "UCIALMKvObZNtJ6AmdCLP7Lg",  # Bloomberg Television
-        "UCvJJ_dzjViJCoLf5uKUTwoA",  # CNBC
-        "UC6ZFN9Tx6xh-skXCuRHCDpQ"   # PBS NewsHour
+        "UCJ0uqCI0Vqr2Rrt1HseGirg",  # James Corden Show
+        "UCzQUP1qoWDoEbmsQxvdjxgQ",  # Joe Rogan Podcast
+
+        # ## UK Shows
+        # "UCe5q9904G9h0m_YfO_4uSg",   # Graham Norton Show
+        # "UCgurmV2nVq_1DUb2pvGOKmg",  # Johnathan Ross Show
+        # "UC_MlPthVWFLMl4Lajr1F3KA",  # Sunday Brunch
+        # "UCuzIhL00Didg_5-w1BOtjXg",  # Piers Morgan
+
+        # ### Other Entertainment stuff
+        # "UCftwRNsjfRo08xYE31tkiyw",  #Wired
+        # "UCIsbLox_y9dCIMLd8tdC6qg",  #Vanity Fair
+        # "UCsEukrAd64fqA7FjwkmZ_Dw",  #GQ
+        # "UClWCQNaggkMW7SDtS3BkEBg",  #Entertainment Weekly
+        # "UCPD_bxCRGpmmeQcbe2kpPaA",  #First we Feast
+        # "UCGbQJy-531_5vfphay-rChQ",  #People
+        # "UCgRQHK8Ttr1j9xCEpCAlgbQ",  #Variety
+        # "UC9ZmFEgVwLieP6FZYtAsy9g",  #Billboard Music Awards
+        # "UCgXYV8asjAC9iLPnpe43-GQ",  #Oscar Awards
+
+        # ### Global News
+        # "UCupvZG-5ko_eiXAupbDfxWw",  #CNN
+        # "UC16niRr50-MSBwiO3YDb3RA",  #BBC NEWS
+        # "UCqnbDFdCpuN8CMEg0VuEBqA",  #The New York Times
+        # "UChqUTb7kYRX8-EiaN3XFrSQ",  #Reuters
+        # "UCHd62-u_v4DvJ8TCFtpi4GA",  #The Washington Post
+        # "UCNye-wNBqNL5ZzHSJj3l8Bg",  #Al Jazeera English
+        # "UCIRYBXDze5krPDzAEOxFGVA",  #The Guardian News
+        # "UCHTK-2W11Vh1V4uwofOfR4w",  # Associated Press
+        # "UCeY0bbntWzzVIaj2z3QigXg",  # NBC News
+        # "UCXIJgqnII2ZOINSWNOGFThA",  # Fox News Channel
+        # "UCIALMKvObZNtJ6AmdCLP7Lg",  # Bloomberg Television
+        # "UCvJJ_dzjViJCoLf5uKUTwoA",  # CNBC
+        # "UC6ZFN9Tx6xh-skXCuRHCDpQ",  # PBS NewsHour
+        # "UCuFFtHWoLl5fauMMD5Ww2jA",  # CBC
+        # "UChLtXXpo4Ge1ReTEboVvTDg",  # Global news
+        # "UC5aNPmKYwbudeNngDMTY3lw",  # CTV news
+        # "UCI_4WZYDHY9Dvb_zUq1_4HQ"   # UK Parliament
+
     ]
 
     cache = load_cache()

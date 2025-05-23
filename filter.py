@@ -64,7 +64,7 @@ def find_persons_in_json(json_file: str, person_list: List[str], model: str = "g
     Reads video data from a JSON file and searches for specified persons in titles and descriptions.
     
     Args:
-        json_file (str): Path to the JSON file (e.g., channel_videos_cache.json)
+        json_file (str): Path to the JSON file (e.g., US shows.json)
         person_list (List[str]): List of person names to search for
     
     Returns:
@@ -152,7 +152,7 @@ def save_results_to_csv(results: List[Dict], csv_file: str) -> None:
 
 def main():
     """Main function to perform person search in JSON file."""
-    json_file = 'channel_videos_cache.json'  # Input JSON file
+    json_file = 'US shows.json'  # Input JSON file
     csv_file = 'person_search_results.csv'   # Output CSV file
     df = pd.read_csv('final.csv')
     person_list = df['name']  # List of persons to search for
