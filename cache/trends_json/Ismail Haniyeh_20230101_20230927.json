@@ -1,0 +1,25 @@
+{
+  "search_metadata": {
+    "id": "684ad964f73581869b95aec4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/66d8f5fd27d5578e/684ad964f73581869b95aec4.json",
+    "created_at": "2025-06-12 13:43:00 UTC",
+    "processed_at": "2025-06-12 13:43:00 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Ismail+Haniyeh%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%222023-01-01+2023-09-27%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/66d8f5fd27d5578e/684ad964f73581869b95aec4.html",
+    "prettify_html_file": "https://serpapi.com/searches/66d8f5fd27d5578e/684ad964f73581869b95aec4.prettify",
+    "total_time_taken": 7.29
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Ismail Haniyeh",
+    "hl": "en",
+    "date": "2023-01-01 2023-09-27",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "search_information": {
+    "organic_results_state": "Fully empty"
+  },
+  "error": "Google Trends hasn't returned any results for this query."
+}

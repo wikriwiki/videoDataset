@@ -1,0 +1,25 @@
+{
+  "search_metadata": {
+    "id": "684ad8b4f9c5e9794b825955",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3379b94384b37e8e/684ad8b4f9c5e9794b825955.json",
+    "created_at": "2025-06-12 13:40:04 UTC",
+    "processed_at": "2025-06-12 13:40:04 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Dmitry+Rogozin%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%222025-03-18+2025-05-31%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/3379b94384b37e8e/684ad8b4f9c5e9794b825955.html",
+    "prettify_html_file": "https://serpapi.com/searches/3379b94384b37e8e/684ad8b4f9c5e9794b825955.prettify",
+    "total_time_taken": 13.94
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Dmitry Rogozin",
+    "hl": "en",
+    "date": "2025-03-18 2025-05-31",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "search_information": {
+    "organic_results_state": "Fully empty"
+  },
+  "error": "Google Trends hasn't returned any results for this query."
+}

@@ -1,0 +1,2995 @@
+{
+  "search_metadata": {
+    "id": "684ad73a1cff19ecb6fdd18a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/568945dcf93951c8/684ad73a1cff19ecb6fdd18a.json",
+    "created_at": "2025-06-12 13:33:46 UTC",
+    "processed_at": "2025-06-12 13:33:46 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Patrick+Mahomes%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%222023-09-27+2024-06-22%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/568945dcf93951c8/684ad73a1cff19ecb6fdd18a.html",
+    "prettify_html_file": "https://serpapi.com/searches/568945dcf93951c8/684ad73a1cff19ecb6fdd18a.prettify",
+    "total_time_taken": 4.95
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Patrick Mahomes",
+    "hl": "en",
+    "date": "2023-09-27 2024-06-22",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "Sep 27, 2023",
+        "timestamp": "1695772800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Sep 28, 2023",
+        "timestamp": "1695859200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Sep 29, 2023",
+        "timestamp": "1695945600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Sep 30, 2023",
+        "timestamp": "1696032000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Oct 1, 2023",
+        "timestamp": "1696118400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Oct 2, 2023",
+        "timestamp": "1696204800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "8",
+            "extracted_value": 8
+          }
+        ]
+      },
+      {
+        "date": "Oct 3, 2023",
+        "timestamp": "1696291200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Oct 4, 2023",
+        "timestamp": "1696377600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 5, 2023",
+        "timestamp": "1696464000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 6, 2023",
+        "timestamp": "1696550400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 7, 2023",
+        "timestamp": "1696636800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 8, 2023",
+        "timestamp": "1696723200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Oct 9, 2023",
+        "timestamp": "1696809600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Oct 10, 2023",
+        "timestamp": "1696896000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 11, 2023",
+        "timestamp": "1696982400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 12, 2023",
+        "timestamp": "1697068800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Oct 13, 2023",
+        "timestamp": "1697155200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      },
+      {
+        "date": "Oct 14, 2023",
+        "timestamp": "1697241600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 15, 2023",
+        "timestamp": "1697328000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Oct 16, 2023",
+        "timestamp": "1697414400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 17, 2023",
+        "timestamp": "1697500800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 18, 2023",
+        "timestamp": "1697587200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 19, 2023",
+        "timestamp": "1697673600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 20, 2023",
+        "timestamp": "1697760000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 21, 2023",
+        "timestamp": "1697846400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 22, 2023",
+        "timestamp": "1697932800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      },
+      {
+        "date": "Oct 23, 2023",
+        "timestamp": "1698019200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Oct 24, 2023",
+        "timestamp": "1698105600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Oct 25, 2023",
+        "timestamp": "1698192000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 26, 2023",
+        "timestamp": "1698278400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 27, 2023",
+        "timestamp": "1698364800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 28, 2023",
+        "timestamp": "1698451200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Oct 29, 2023",
+        "timestamp": "1698537600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      },
+      {
+        "date": "Oct 30, 2023",
+        "timestamp": "1698624000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Oct 31, 2023",
+        "timestamp": "1698710400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 1, 2023",
+        "timestamp": "1698796800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 2, 2023",
+        "timestamp": "1698883200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 3, 2023",
+        "timestamp": "1698969600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 4, 2023",
+        "timestamp": "1699056000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 5, 2023",
+        "timestamp": "1699142400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Nov 6, 2023",
+        "timestamp": "1699228800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 7, 2023",
+        "timestamp": "1699315200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 8, 2023",
+        "timestamp": "1699401600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 9, 2023",
+        "timestamp": "1699488000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 10, 2023",
+        "timestamp": "1699574400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 11, 2023",
+        "timestamp": "1699660800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 12, 2023",
+        "timestamp": "1699747200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 13, 2023",
+        "timestamp": "1699833600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 14, 2023",
+        "timestamp": "1699920000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 15, 2023",
+        "timestamp": "1700006400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 16, 2023",
+        "timestamp": "1700092800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 17, 2023",
+        "timestamp": "1700179200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 18, 2023",
+        "timestamp": "1700265600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 19, 2023",
+        "timestamp": "1700352000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 20, 2023",
+        "timestamp": "1700438400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 21, 2023",
+        "timestamp": "1700524800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "6",
+            "extracted_value": 6
+          }
+        ]
+      },
+      {
+        "date": "Nov 22, 2023",
+        "timestamp": "1700611200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 23, 2023",
+        "timestamp": "1700697600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 24, 2023",
+        "timestamp": "1700784000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 25, 2023",
+        "timestamp": "1700870400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 26, 2023",
+        "timestamp": "1700956800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 27, 2023",
+        "timestamp": "1701043200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Nov 28, 2023",
+        "timestamp": "1701129600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 29, 2023",
+        "timestamp": "1701216000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Nov 30, 2023",
+        "timestamp": "1701302400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 1, 2023",
+        "timestamp": "1701388800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 2, 2023",
+        "timestamp": "1701475200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 3, 2023",
+        "timestamp": "1701561600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Dec 4, 2023",
+        "timestamp": "1701648000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Dec 5, 2023",
+        "timestamp": "1701734400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 6, 2023",
+        "timestamp": "1701820800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 7, 2023",
+        "timestamp": "1701907200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 8, 2023",
+        "timestamp": "1701993600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 9, 2023",
+        "timestamp": "1702080000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 10, 2023",
+        "timestamp": "1702166400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Dec 11, 2023",
+        "timestamp": "1702252800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "11",
+            "extracted_value": 11
+          }
+        ]
+      },
+      {
+        "date": "Dec 12, 2023",
+        "timestamp": "1702339200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Dec 13, 2023",
+        "timestamp": "1702425600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Dec 14, 2023",
+        "timestamp": "1702512000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Dec 15, 2023",
+        "timestamp": "1702598400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 16, 2023",
+        "timestamp": "1702684800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 17, 2023",
+        "timestamp": "1702771200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Dec 18, 2023",
+        "timestamp": "1702857600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Dec 19, 2023",
+        "timestamp": "1702944000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 20, 2023",
+        "timestamp": "1703030400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 21, 2023",
+        "timestamp": "1703116800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 22, 2023",
+        "timestamp": "1703203200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 23, 2023",
+        "timestamp": "1703289600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 24, 2023",
+        "timestamp": "1703376000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Dec 25, 2023",
+        "timestamp": "1703462400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "7",
+            "extracted_value": 7
+          }
+        ]
+      },
+      {
+        "date": "Dec 26, 2023",
+        "timestamp": "1703548800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Dec 27, 2023",
+        "timestamp": "1703635200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Dec 28, 2023",
+        "timestamp": "1703721600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Dec 29, 2023",
+        "timestamp": "1703808000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Dec 30, 2023",
+        "timestamp": "1703894400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Dec 31, 2023",
+        "timestamp": "1703980800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 1, 2024",
+        "timestamp": "1704067200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 2, 2024",
+        "timestamp": "1704153600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jan 3, 2024",
+        "timestamp": "1704240000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jan 4, 2024",
+        "timestamp": "1704326400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Jan 5, 2024",
+        "timestamp": "1704412800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jan 6, 2024",
+        "timestamp": "1704499200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jan 7, 2024",
+        "timestamp": "1704585600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 8, 2024",
+        "timestamp": "1704672000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Jan 9, 2024",
+        "timestamp": "1704758400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jan 10, 2024",
+        "timestamp": "1704844800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jan 11, 2024",
+        "timestamp": "1704931200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jan 12, 2024",
+        "timestamp": "1705017600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jan 13, 2024",
+        "timestamp": "1705104000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 14, 2024",
+        "timestamp": "1705190400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "12",
+            "extracted_value": 12
+          }
+        ]
+      },
+      {
+        "date": "Jan 15, 2024",
+        "timestamp": "1705276800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Jan 16, 2024",
+        "timestamp": "1705363200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 17, 2024",
+        "timestamp": "1705449600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Jan 18, 2024",
+        "timestamp": "1705536000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Jan 19, 2024",
+        "timestamp": "1705622400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Jan 20, 2024",
+        "timestamp": "1705708800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 21, 2024",
+        "timestamp": "1705795200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "8",
+            "extracted_value": 8
+          }
+        ]
+      },
+      {
+        "date": "Jan 22, 2024",
+        "timestamp": "1705881600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "17",
+            "extracted_value": 17
+          }
+        ]
+      },
+      {
+        "date": "Jan 23, 2024",
+        "timestamp": "1705968000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Jan 24, 2024",
+        "timestamp": "1706054400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 25, 2024",
+        "timestamp": "1706140800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 26, 2024",
+        "timestamp": "1706227200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Jan 27, 2024",
+        "timestamp": "1706313600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Jan 28, 2024",
+        "timestamp": "1706400000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "23",
+            "extracted_value": 23
+          }
+        ]
+      },
+      {
+        "date": "Jan 29, 2024",
+        "timestamp": "1706486400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "17",
+            "extracted_value": 17
+          }
+        ]
+      },
+      {
+        "date": "Jan 30, 2024",
+        "timestamp": "1706572800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "7",
+            "extracted_value": 7
+          }
+        ]
+      },
+      {
+        "date": "Jan 31, 2024",
+        "timestamp": "1706659200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      },
+      {
+        "date": "Feb 1, 2024",
+        "timestamp": "1706745600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      },
+      {
+        "date": "Feb 2, 2024",
+        "timestamp": "1706832000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Feb 3, 2024",
+        "timestamp": "1706918400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Feb 4, 2024",
+        "timestamp": "1707004800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "7",
+            "extracted_value": 7
+          }
+        ]
+      },
+      {
+        "date": "Feb 5, 2024",
+        "timestamp": "1707091200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "11",
+            "extracted_value": 11
+          }
+        ]
+      },
+      {
+        "date": "Feb 6, 2024",
+        "timestamp": "1707177600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "6",
+            "extracted_value": 6
+          }
+        ]
+      },
+      {
+        "date": "Feb 7, 2024",
+        "timestamp": "1707264000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      },
+      {
+        "date": "Feb 8, 2024",
+        "timestamp": "1707350400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      },
+      {
+        "date": "Feb 9, 2024",
+        "timestamp": "1707436800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "6",
+            "extracted_value": 6
+          }
+        ]
+      },
+      {
+        "date": "Feb 10, 2024",
+        "timestamp": "1707523200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "6",
+            "extracted_value": 6
+          }
+        ]
+      },
+      {
+        "date": "Feb 11, 2024",
+        "timestamp": "1707609600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "32",
+            "extracted_value": 32
+          }
+        ]
+      },
+      {
+        "date": "Feb 12, 2024",
+        "timestamp": "1707696000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "100",
+            "extracted_value": 100
+          }
+        ]
+      },
+      {
+        "date": "Feb 13, 2024",
+        "timestamp": "1707782400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "20",
+            "extracted_value": 20
+          }
+        ]
+      },
+      {
+        "date": "Feb 14, 2024",
+        "timestamp": "1707868800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "10",
+            "extracted_value": 10
+          }
+        ]
+      },
+      {
+        "date": "Feb 15, 2024",
+        "timestamp": "1707955200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "8",
+            "extracted_value": 8
+          }
+        ]
+      },
+      {
+        "date": "Feb 16, 2024",
+        "timestamp": "1708041600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "6",
+            "extracted_value": 6
+          }
+        ]
+      },
+      {
+        "date": "Feb 17, 2024",
+        "timestamp": "1708128000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      },
+      {
+        "date": "Feb 18, 2024",
+        "timestamp": "1708214400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "4",
+            "extracted_value": 4
+          }
+        ]
+      },
+      {
+        "date": "Feb 19, 2024",
+        "timestamp": "1708300800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "Feb 20, 2024",
+        "timestamp": "1708387200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Feb 21, 2024",
+        "timestamp": "1708473600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Feb 22, 2024",
+        "timestamp": "1708560000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Feb 23, 2024",
+        "timestamp": "1708646400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Feb 24, 2024",
+        "timestamp": "1708732800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Feb 25, 2024",
+        "timestamp": "1708819200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Feb 26, 2024",
+        "timestamp": "1708905600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Feb 27, 2024",
+        "timestamp": "1708992000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Feb 28, 2024",
+        "timestamp": "1709078400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Feb 29, 2024",
+        "timestamp": "1709164800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 1, 2024",
+        "timestamp": "1709251200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 2, 2024",
+        "timestamp": "1709337600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 3, 2024",
+        "timestamp": "1709424000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 4, 2024",
+        "timestamp": "1709510400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 5, 2024",
+        "timestamp": "1709596800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 6, 2024",
+        "timestamp": "1709683200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 7, 2024",
+        "timestamp": "1709769600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 8, 2024",
+        "timestamp": "1709856000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 9, 2024",
+        "timestamp": "1709942400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 10, 2024",
+        "timestamp": "1710028800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 11, 2024",
+        "timestamp": "1710115200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 12, 2024",
+        "timestamp": "1710201600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 13, 2024",
+        "timestamp": "1710288000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Mar 14, 2024",
+        "timestamp": "1710374400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 15, 2024",
+        "timestamp": "1710460800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 16, 2024",
+        "timestamp": "1710547200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 17, 2024",
+        "timestamp": "1710633600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Mar 18, 2024",
+        "timestamp": "1710720000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 19, 2024",
+        "timestamp": "1710806400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 20, 2024",
+        "timestamp": "1710892800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 21, 2024",
+        "timestamp": "1710979200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 22, 2024",
+        "timestamp": "1711065600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 23, 2024",
+        "timestamp": "1711152000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 24, 2024",
+        "timestamp": "1711238400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 25, 2024",
+        "timestamp": "1711324800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 26, 2024",
+        "timestamp": "1711411200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 27, 2024",
+        "timestamp": "1711497600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 28, 2024",
+        "timestamp": "1711584000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 29, 2024",
+        "timestamp": "1711670400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 30, 2024",
+        "timestamp": "1711756800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Mar 31, 2024",
+        "timestamp": "1711843200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 1, 2024",
+        "timestamp": "1711929600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 2, 2024",
+        "timestamp": "1712016000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 3, 2024",
+        "timestamp": "1712102400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 4, 2024",
+        "timestamp": "1712188800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 5, 2024",
+        "timestamp": "1712275200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 6, 2024",
+        "timestamp": "1712361600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 7, 2024",
+        "timestamp": "1712448000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 8, 2024",
+        "timestamp": "1712534400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 9, 2024",
+        "timestamp": "1712620800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 10, 2024",
+        "timestamp": "1712707200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 11, 2024",
+        "timestamp": "1712793600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 12, 2024",
+        "timestamp": "1712880000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 13, 2024",
+        "timestamp": "1712966400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 14, 2024",
+        "timestamp": "1713052800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 15, 2024",
+        "timestamp": "1713139200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 16, 2024",
+        "timestamp": "1713225600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 17, 2024",
+        "timestamp": "1713312000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 18, 2024",
+        "timestamp": "1713398400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 19, 2024",
+        "timestamp": "1713484800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 20, 2024",
+        "timestamp": "1713571200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 21, 2024",
+        "timestamp": "1713657600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 22, 2024",
+        "timestamp": "1713744000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 23, 2024",
+        "timestamp": "1713830400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 24, 2024",
+        "timestamp": "1713916800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 25, 2024",
+        "timestamp": "1714003200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 26, 2024",
+        "timestamp": "1714089600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Apr 27, 2024",
+        "timestamp": "1714176000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 28, 2024",
+        "timestamp": "1714262400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 29, 2024",
+        "timestamp": "1714348800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Apr 30, 2024",
+        "timestamp": "1714435200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "May 1, 2024",
+        "timestamp": "1714521600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 2, 2024",
+        "timestamp": "1714608000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 3, 2024",
+        "timestamp": "1714694400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 4, 2024",
+        "timestamp": "1714780800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 5, 2024",
+        "timestamp": "1714867200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 6, 2024",
+        "timestamp": "1714953600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 7, 2024",
+        "timestamp": "1715040000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 8, 2024",
+        "timestamp": "1715126400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 9, 2024",
+        "timestamp": "1715212800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 10, 2024",
+        "timestamp": "1715299200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 11, 2024",
+        "timestamp": "1715385600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 12, 2024",
+        "timestamp": "1715472000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 13, 2024",
+        "timestamp": "1715558400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 14, 2024",
+        "timestamp": "1715644800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 15, 2024",
+        "timestamp": "1715731200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 16, 2024",
+        "timestamp": "1715817600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 17, 2024",
+        "timestamp": "1715904000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 18, 2024",
+        "timestamp": "1715990400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 19, 2024",
+        "timestamp": "1716076800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 20, 2024",
+        "timestamp": "1716163200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 21, 2024",
+        "timestamp": "1716249600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 22, 2024",
+        "timestamp": "1716336000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 23, 2024",
+        "timestamp": "1716422400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 24, 2024",
+        "timestamp": "1716508800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 25, 2024",
+        "timestamp": "1716595200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 26, 2024",
+        "timestamp": "1716681600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 27, 2024",
+        "timestamp": "1716768000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "3",
+            "extracted_value": 3
+          }
+        ]
+      },
+      {
+        "date": "May 28, 2024",
+        "timestamp": "1716854400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 29, 2024",
+        "timestamp": "1716940800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 30, 2024",
+        "timestamp": "1717027200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "May 31, 2024",
+        "timestamp": "1717113600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 1, 2024",
+        "timestamp": "1717200000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 2, 2024",
+        "timestamp": "1717286400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 3, 2024",
+        "timestamp": "1717372800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 4, 2024",
+        "timestamp": "1717459200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 5, 2024",
+        "timestamp": "1717545600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 6, 2024",
+        "timestamp": "1717632000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 7, 2024",
+        "timestamp": "1717718400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 8, 2024",
+        "timestamp": "1717804800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 9, 2024",
+        "timestamp": "1717891200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 10, 2024",
+        "timestamp": "1717977600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Jun 11, 2024",
+        "timestamp": "1718064000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 12, 2024",
+        "timestamp": "1718150400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 13, 2024",
+        "timestamp": "1718236800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "2",
+            "extracted_value": 2
+          }
+        ]
+      },
+      {
+        "date": "Jun 14, 2024",
+        "timestamp": "1718323200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 15, 2024",
+        "timestamp": "1718409600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 16, 2024",
+        "timestamp": "1718496000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 17, 2024",
+        "timestamp": "1718582400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 18, 2024",
+        "timestamp": "1718668800",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 19, 2024",
+        "timestamp": "1718755200",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 20, 2024",
+        "timestamp": "1718841600",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 21, 2024",
+        "timestamp": "1718928000",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      },
+      {
+        "date": "Jun 22, 2024",
+        "timestamp": "1719014400",
+        "values": [
+          {
+            "query": "Patrick Mahomes",
+            "value": "1",
+            "extracted_value": 1
+          }
+        ]
+      }
+    ]
+  }
+}

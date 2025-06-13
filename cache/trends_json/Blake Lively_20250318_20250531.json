@@ -1,0 +1,850 @@
+{
+  "search_metadata": {
+    "id": "684ade7ff2593a02cf3852be",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/be06669e472fd5ec/684ade7ff2593a02cf3852be.json",
+    "created_at": "2025-06-12 14:04:47 UTC",
+    "processed_at": "2025-06-12 14:04:47 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Blake+Lively%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%222025-03-18+2025-05-31%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/be06669e472fd5ec/684ade7ff2593a02cf3852be.html",
+    "prettify_html_file": "https://serpapi.com/searches/be06669e472fd5ec/684ade7ff2593a02cf3852be.prettify",
+    "total_time_taken": 3.39
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Blake Lively",
+    "hl": "en",
+    "date": "2025-03-18 2025-05-31",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "Mar 18, 2025",
+        "timestamp": "1742256000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "34",
+            "extracted_value": 34
+          }
+        ]
+      },
+      {
+        "date": "Mar 19, 2025",
+        "timestamp": "1742342400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "33",
+            "extracted_value": 33
+          }
+        ]
+      },
+      {
+        "date": "Mar 20, 2025",
+        "timestamp": "1742428800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "35",
+            "extracted_value": 35
+          }
+        ]
+      },
+      {
+        "date": "Mar 21, 2025",
+        "timestamp": "1742515200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "41",
+            "extracted_value": 41
+          }
+        ]
+      },
+      {
+        "date": "Mar 22, 2025",
+        "timestamp": "1742601600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "46",
+            "extracted_value": 46
+          }
+        ]
+      },
+      {
+        "date": "Mar 23, 2025",
+        "timestamp": "1742688000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "44",
+            "extracted_value": 44
+          }
+        ]
+      },
+      {
+        "date": "Mar 24, 2025",
+        "timestamp": "1742774400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "33",
+            "extracted_value": 33
+          }
+        ]
+      },
+      {
+        "date": "Mar 25, 2025",
+        "timestamp": "1742860800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "30",
+            "extracted_value": 30
+          }
+        ]
+      },
+      {
+        "date": "Mar 26, 2025",
+        "timestamp": "1742947200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "29",
+            "extracted_value": 29
+          }
+        ]
+      },
+      {
+        "date": "Mar 27, 2025",
+        "timestamp": "1743033600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "30",
+            "extracted_value": 30
+          }
+        ]
+      },
+      {
+        "date": "Mar 28, 2025",
+        "timestamp": "1743120000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "29",
+            "extracted_value": 29
+          }
+        ]
+      },
+      {
+        "date": "Mar 29, 2025",
+        "timestamp": "1743206400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "35",
+            "extracted_value": 35
+          }
+        ]
+      },
+      {
+        "date": "Mar 30, 2025",
+        "timestamp": "1743292800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "39",
+            "extracted_value": 39
+          }
+        ]
+      },
+      {
+        "date": "Mar 31, 2025",
+        "timestamp": "1743379200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "32",
+            "extracted_value": 32
+          }
+        ]
+      },
+      {
+        "date": "Apr 1, 2025",
+        "timestamp": "1743465600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "30",
+            "extracted_value": 30
+          }
+        ]
+      },
+      {
+        "date": "Apr 2, 2025",
+        "timestamp": "1743552000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "27",
+            "extracted_value": 27
+          }
+        ]
+      },
+      {
+        "date": "Apr 3, 2025",
+        "timestamp": "1743638400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "26",
+            "extracted_value": 26
+          }
+        ]
+      },
+      {
+        "date": "Apr 4, 2025",
+        "timestamp": "1743724800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "29",
+            "extracted_value": 29
+          }
+        ]
+      },
+      {
+        "date": "Apr 5, 2025",
+        "timestamp": "1743811200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "35",
+            "extracted_value": 35
+          }
+        ]
+      },
+      {
+        "date": "Apr 6, 2025",
+        "timestamp": "1743897600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "35",
+            "extracted_value": 35
+          }
+        ]
+      },
+      {
+        "date": "Apr 7, 2025",
+        "timestamp": "1743984000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "25",
+            "extracted_value": 25
+          }
+        ]
+      },
+      {
+        "date": "Apr 8, 2025",
+        "timestamp": "1744070400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "25",
+            "extracted_value": 25
+          }
+        ]
+      },
+      {
+        "date": "Apr 9, 2025",
+        "timestamp": "1744156800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "30",
+            "extracted_value": 30
+          }
+        ]
+      },
+      {
+        "date": "Apr 10, 2025",
+        "timestamp": "1744243200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "25",
+            "extracted_value": 25
+          }
+        ]
+      },
+      {
+        "date": "Apr 11, 2025",
+        "timestamp": "1744329600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "26",
+            "extracted_value": 26
+          }
+        ]
+      },
+      {
+        "date": "Apr 12, 2025",
+        "timestamp": "1744416000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "32",
+            "extracted_value": 32
+          }
+        ]
+      },
+      {
+        "date": "Apr 13, 2025",
+        "timestamp": "1744502400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "32",
+            "extracted_value": 32
+          }
+        ]
+      },
+      {
+        "date": "Apr 14, 2025",
+        "timestamp": "1744588800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "26",
+            "extracted_value": 26
+          }
+        ]
+      },
+      {
+        "date": "Apr 15, 2025",
+        "timestamp": "1744675200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "30",
+            "extracted_value": 30
+          }
+        ]
+      },
+      {
+        "date": "Apr 16, 2025",
+        "timestamp": "1744761600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "31",
+            "extracted_value": 31
+          }
+        ]
+      },
+      {
+        "date": "Apr 17, 2025",
+        "timestamp": "1744848000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "32",
+            "extracted_value": 32
+          }
+        ]
+      },
+      {
+        "date": "Apr 18, 2025",
+        "timestamp": "1744934400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "35",
+            "extracted_value": 35
+          }
+        ]
+      },
+      {
+        "date": "Apr 19, 2025",
+        "timestamp": "1745020800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "33",
+            "extracted_value": 33
+          }
+        ]
+      },
+      {
+        "date": "Apr 20, 2025",
+        "timestamp": "1745107200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "33",
+            "extracted_value": 33
+          }
+        ]
+      },
+      {
+        "date": "Apr 21, 2025",
+        "timestamp": "1745193600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "31",
+            "extracted_value": 31
+          }
+        ]
+      },
+      {
+        "date": "Apr 22, 2025",
+        "timestamp": "1745280000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "33",
+            "extracted_value": 33
+          }
+        ]
+      },
+      {
+        "date": "Apr 23, 2025",
+        "timestamp": "1745366400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "32",
+            "extracted_value": 32
+          }
+        ]
+      },
+      {
+        "date": "Apr 24, 2025",
+        "timestamp": "1745452800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "32",
+            "extracted_value": 32
+          }
+        ]
+      },
+      {
+        "date": "Apr 25, 2025",
+        "timestamp": "1745539200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "49",
+            "extracted_value": 49
+          }
+        ]
+      },
+      {
+        "date": "Apr 26, 2025",
+        "timestamp": "1745625600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "54",
+            "extracted_value": 54
+          }
+        ]
+      },
+      {
+        "date": "Apr 27, 2025",
+        "timestamp": "1745712000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "51",
+            "extracted_value": 51
+          }
+        ]
+      },
+      {
+        "date": "Apr 28, 2025",
+        "timestamp": "1745798400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "51",
+            "extracted_value": 51
+          }
+        ]
+      },
+      {
+        "date": "Apr 29, 2025",
+        "timestamp": "1745884800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "51",
+            "extracted_value": 51
+          }
+        ]
+      },
+      {
+        "date": "Apr 30, 2025",
+        "timestamp": "1745971200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "46",
+            "extracted_value": 46
+          }
+        ]
+      },
+      {
+        "date": "May 1, 2025",
+        "timestamp": "1746057600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "58",
+            "extracted_value": 58
+          }
+        ]
+      },
+      {
+        "date": "May 2, 2025",
+        "timestamp": "1746144000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "76",
+            "extracted_value": 76
+          }
+        ]
+      },
+      {
+        "date": "May 3, 2025",
+        "timestamp": "1746230400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "89",
+            "extracted_value": 89
+          }
+        ]
+      },
+      {
+        "date": "May 4, 2025",
+        "timestamp": "1746316800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "100",
+            "extracted_value": 100
+          }
+        ]
+      },
+      {
+        "date": "May 5, 2025",
+        "timestamp": "1746403200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "66",
+            "extracted_value": 66
+          }
+        ]
+      },
+      {
+        "date": "May 6, 2025",
+        "timestamp": "1746489600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "69",
+            "extracted_value": 69
+          }
+        ]
+      },
+      {
+        "date": "May 7, 2025",
+        "timestamp": "1746576000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "49",
+            "extracted_value": 49
+          }
+        ]
+      },
+      {
+        "date": "May 8, 2025",
+        "timestamp": "1746662400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "45",
+            "extracted_value": 45
+          }
+        ]
+      },
+      {
+        "date": "May 9, 2025",
+        "timestamp": "1746748800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "48",
+            "extracted_value": 48
+          }
+        ]
+      },
+      {
+        "date": "May 10, 2025",
+        "timestamp": "1746835200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "67",
+            "extracted_value": 67
+          }
+        ]
+      },
+      {
+        "date": "May 11, 2025",
+        "timestamp": "1746921600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "58",
+            "extracted_value": 58
+          }
+        ]
+      },
+      {
+        "date": "May 12, 2025",
+        "timestamp": "1747008000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "43",
+            "extracted_value": 43
+          }
+        ]
+      },
+      {
+        "date": "May 13, 2025",
+        "timestamp": "1747094400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "36",
+            "extracted_value": 36
+          }
+        ]
+      },
+      {
+        "date": "May 14, 2025",
+        "timestamp": "1747180800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "40",
+            "extracted_value": 40
+          }
+        ]
+      },
+      {
+        "date": "May 15, 2025",
+        "timestamp": "1747267200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "58",
+            "extracted_value": 58
+          }
+        ]
+      },
+      {
+        "date": "May 16, 2025",
+        "timestamp": "1747353600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "66",
+            "extracted_value": 66
+          }
+        ]
+      },
+      {
+        "date": "May 17, 2025",
+        "timestamp": "1747440000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "57",
+            "extracted_value": 57
+          }
+        ]
+      },
+      {
+        "date": "May 18, 2025",
+        "timestamp": "1747526400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "53",
+            "extracted_value": 53
+          }
+        ]
+      },
+      {
+        "date": "May 19, 2025",
+        "timestamp": "1747612800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "46",
+            "extracted_value": 46
+          }
+        ]
+      },
+      {
+        "date": "May 20, 2025",
+        "timestamp": "1747699200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "40",
+            "extracted_value": 40
+          }
+        ]
+      },
+      {
+        "date": "May 21, 2025",
+        "timestamp": "1747785600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "36",
+            "extracted_value": 36
+          }
+        ]
+      },
+      {
+        "date": "May 22, 2025",
+        "timestamp": "1747872000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "38",
+            "extracted_value": 38
+          }
+        ]
+      },
+      {
+        "date": "May 23, 2025",
+        "timestamp": "1747958400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "43",
+            "extracted_value": 43
+          }
+        ]
+      },
+      {
+        "date": "May 24, 2025",
+        "timestamp": "1748044800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "44",
+            "extracted_value": 44
+          }
+        ]
+      },
+      {
+        "date": "May 25, 2025",
+        "timestamp": "1748131200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "44",
+            "extracted_value": 44
+          }
+        ]
+      },
+      {
+        "date": "May 26, 2025",
+        "timestamp": "1748217600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "34",
+            "extracted_value": 34
+          }
+        ]
+      },
+      {
+        "date": "May 27, 2025",
+        "timestamp": "1748304000",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "29",
+            "extracted_value": 29
+          }
+        ]
+      },
+      {
+        "date": "May 28, 2025",
+        "timestamp": "1748390400",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "27",
+            "extracted_value": 27
+          }
+        ]
+      },
+      {
+        "date": "May 29, 2025",
+        "timestamp": "1748476800",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "30",
+            "extracted_value": 30
+          }
+        ]
+      },
+      {
+        "date": "May 30, 2025",
+        "timestamp": "1748563200",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "31",
+            "extracted_value": 31
+          }
+        ]
+      },
+      {
+        "date": "May 31, 2025",
+        "timestamp": "1748649600",
+        "values": [
+          {
+            "query": "Blake Lively",
+            "value": "33",
+            "extracted_value": 33
+          }
+        ]
+      }
+    ]
+  }
+}
